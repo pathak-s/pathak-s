@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pathak-s
+- 👋 Hi, I’m Shashank Pathak - @pathak-s
 - 👀 I’m interested in everything required to build awesome applications
 - 🌱 I’m currently learning some React and ROR 
 - 💞️ I’m looking to collaborate on everything!
